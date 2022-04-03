@@ -1,0 +1,25 @@
+{
+  "name": "regexp",
+  "version": "1.0.0",
+  "description": "정규식, Regular Expression",
+  "main": "main.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okdol1/RegExp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okdol1/RegExp/issues"
+  },
+  "homepage": "https://github.com/okdol1/RegExp#readme"
+}
